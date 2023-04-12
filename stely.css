@@ -358,3 +358,10 @@ border: solid;
   color: #75727278;
 
 }
+
+
+
+/*media queries*/
+@media (max-width: 786px){
+  h1 {color:rosybrown } 
+}
